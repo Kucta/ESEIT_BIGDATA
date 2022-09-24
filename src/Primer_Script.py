@@ -1,5 +1,6 @@
 import numpy as np
 import argparse
+import pandas as pd
 def calcularValores(lista_numeros,verbose):
     """Retorna los valores de suma,media, desviacion estandar y minimos y maximos
 
